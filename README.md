@@ -62,4 +62,5 @@ This is a Python-based implementation of the classic **Connect Four** game. It f
 - **NumPy**: Used to manage the game board as a matrix.
 
 ---
+![image](https://github.com/user-attachments/assets/cb6f5448-d2e9-4493-a6de-98c63b9d8705)
 
